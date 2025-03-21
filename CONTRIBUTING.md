@@ -4,7 +4,7 @@ Contributions to this project are welcome! Here are some guidelines to follow:
 ## How to contribute
   1. Fork this repository.
   2. Clone your forked repository:
-  `https://github.com/Ukhang/brenda.git`
+  https://github.com/iamvikrammishra/final-year-project.git
   3. Create a new branch:
   `git checkout -b my-new-feature`
   4. Make your changes and commit them:
