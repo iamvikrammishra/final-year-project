@@ -184,7 +184,7 @@ const EngineeringArchitecture = () => {
   return (
     <div className="min-h-screen flex flex-col">
         {/* ============== Head Tag =============== */}
-        <HeadTag title="Top Engineering & Architecture Experts for Hire in July 2022 | Brenda"/>
+        <HeadTag title="Top Engineering & Architecture Experts for Hire in february 2025 | SkillSync"/>
 
         {/* ================= Header ================= */}
         <header className="header-bg">
@@ -215,7 +215,7 @@ const EngineeringArchitecture = () => {
                 contracts="34,500+ contracts"
                 contractsText="Involving engineering and architecture work in the last year."
                 skills="670 skills"
-                skillsText="epresented by talent on Brenda"
+                skillsText="epresented by talent on SkillSync"
                 cardData={CardData}
             />
 
@@ -262,7 +262,7 @@ const EngineeringArchitecture = () => {
                 secondHeadText="What is the first step to hiring engineering and architecture talent and determining the project cost?"
                 secondDesText="One of the first steps in hiring any talent is to determine which skills you need for your project. You know you need help with engineering and architecture, but what specific things are you trying to do? Upwork matches you with proven remote talent who can help you with all your needs, including."
 
-                thirdHeadText="What are the various ways I can connect with engineering and architecture talent through Brenda?"
+                thirdHeadText="What are the various ways I can connect with engineering and architecture talent through SkillSync?"
                 thirdDesText=" Upwork gives you the flexibility you need to find the right talent for your projects.
                 Talent Marketplace: Find and source independent professionals for your projects directly from Upwork’s talent marketplace.Project Catalog: Project Catalog is a new way to quickly get started and expand your capabilities through Upwork. From building information modeling services to trade show booth engineering services, projects are predefined for you, so you can get to know talent through a clearly defined project within their expertise, then easily scale up and down as needed."
 

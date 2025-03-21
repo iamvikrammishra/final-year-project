@@ -25,7 +25,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col">
 
       {/* ============== Head Tag =============== */}
-      <HeadTag title="Brenda - The World's Work Marketplace"/>
+      <HeadTag title="SkillSync - The World's Work Marketplace"/>
 
       {/* ================= Header ================= */}
       <header className="header-bg">
@@ -190,7 +190,7 @@ export default function Home() {
                 transition={{duration:1}}
               >
                 Why business <br/>
-                turn to Brenda
+                turn to SkillSync
               </motion.h2>
 
               <motion.div className="flex md:ml-3 ml-0 space-x-5 items-start mt-7"
@@ -286,7 +286,7 @@ export default function Home() {
                     4.9/5
                   </h3>
                   <span className="2xl:text-xl lg:text-md text-zinc-500">
-                    Clients rate professionals on Branda 
+                    Clients rate professionals on SkillSync
                   </span>
                 </div>
               </motion.div>
@@ -305,7 +305,7 @@ export default function Home() {
                     Award winner 
                   </h3>
                   <span className="2xl:text-xl lg:text-md text-zinc-500">
-                    G2’s 2021 Best Software Awards 
+                    G2’s 2025 Best Software Awards 
                   </span>
                 </div>
               </motion.div>
@@ -399,7 +399,7 @@ export default function Home() {
                 </div>
               
                 <span className="text-white font-semibold xl:text-2xl text-xl mt-5">
-                    “Brenda enables us to differentiate 
+                    “SkillSync enables us to differentiate 
                     ourselves from our competitors and 
                     produce content at a higher caliber.”
                 </span>

@@ -181,7 +181,7 @@ const Legal = () => {
   return (
     <div className="min-h-screen flex flex-col">
         {/* ============== Head Tag =============== */}
-        <HeadTag title="Top Legal Professional Experts for Hire in July 2022 | Brenda"/>
+        <HeadTag title="Top Legal Professional Experts for Hire in february 2025 | SkillSync"/>
 
         {/* ================= Header ================= */}
         <header className="header-bg">
@@ -212,7 +212,7 @@ const Legal = () => {
                 contracts="7,700+ contracts"
                 contractsText="Involving legal work in the last year."
                 skills="136 skills"
-                skillsText="epresented by talent on Brenda"
+                skillsText="epresented by talent on SkillSync"
                 cardData={CardData}
             />
 
@@ -261,7 +261,7 @@ const Legal = () => {
                 secondHeadText="What is the first step to hiring legal talent and determining the project cost?"
                 secondDesText="One of the first steps in hiring any talent is to determine which skills you need for your project. You know you need help with engineering and architecture, but what specific things are you trying to do? Upwork matches you with proven remote talent who can help you with all your needs, including."
 
-                thirdHeadText="What are the various ways I can connect with legal talent through Brenda?"
+                thirdHeadText="What are the various ways I can connect with legal talent through SkillSync?"
                 thirdDesText=" Upwork gives you the flexibility you need to find the right talent for your projects.
                 Talent Marketplace: Find and source independent professionals for your projects directly from Upwork’s talent marketplace.Project Catalog: Project Catalog is a new way to quickly get started and expand your capabilities through Upwork. From building information modeling services to trade show booth engineering services, projects are predefined for you, so you can get to know talent through a clearly defined project within their expertise, then easily scale up and down as needed."
 

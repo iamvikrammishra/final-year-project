@@ -19,7 +19,7 @@ const TalentMarketplace = () => {
     return (
         <div className="min-h-screen flex flex-col">
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Talent Marketplace - Post a Job - Talent Marketplace | Brenda"/>
+            <HeadTag title="Talent Marketplace - Post a Job - Talent Marketplace | SkillSync"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">

@@ -202,7 +202,7 @@ const Footer = () => {
                 <div className="flex md:flex-row flex-col justify-between md:space-y-0 space-y-3 lg:px-3 md:px-0 sm:px-10 px-3 mt-3 mb-10">
                     <div className="md:border-r border-zinc-800 pr-3">
                         <p className="text-[15px] text-zinc-800 font-semibold">
-                            © 2021 - 2022 Brenda Globe Inc
+                            © 2024 - 2025 SkillSync Globe Inc
                         </p>
                     </div>
                     <ul className="flex md:flex-row flex-col md:items-center xl:space-x-20 md:space-x-7 md:space-y-0 space-y-3">

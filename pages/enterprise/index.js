@@ -115,7 +115,7 @@ const Enterprise = () => {
                                 </div>
                             
                                 <span className="text-white font-semibold xl:text-2xl text-xl mt-5">
-                                    “Brenda enables us to differentiate 
+                                    “SkillSync enables us to differentiate 
                                     ourselves from our competitors and 
                                     produce content at a higher caliber.”
                                 </span>
@@ -164,7 +164,7 @@ const Enterprise = () => {
                                 </div>
                             
                                 <span className="text-white font-semibold xl:text-2xl text-xl mt-5">
-                                    “Brenda Handle blended workforce logistics in one place balance our life making easy and thank you brenda.”
+                                    “SkillSync Handle blended workforce logistics in one place balance our life making easy and thank you SkillSync.”
                                 </span>
                                 <span className="text-gray-300 mt-2">
                                     Josh Machiz, Chief Digital Officer
@@ -229,7 +229,7 @@ const Enterprise = () => {
                                 </div>
                             
                                 <span className="text-white font-semibold xl:text-2xl text-xl mt-5">
-                                    “Brenda enables us to differentiate 
+                                    “SkillSync enables us to differentiate 
                                     ourselves from our competitors and 
                                     produce content at a higher caliber.”
                                 </span>
@@ -546,7 +546,7 @@ const Enterprise = () => {
                             <div className="px-5 py-5 bg-[#e4ebe4] rounded-xl space-y-2">
                                 <BsLaptop className="text-6xl text-zinc-800"/>
                                 <h5 className="text-zinc-800 font-semibold text-lg">
-                                    Brenda Professional
+                                    SkillSync Professional
                                 </h5>
                                 <p className="text-zinc-600 font-semibold text-[17px]">
                                     Supports your team through the hiring process, from screening talent to starting projects.
@@ -583,7 +583,7 @@ const Enterprise = () => {
                             </div>
                         
                             <span className="text-white font-semibold xl:text-2xl text-xl mt-5">
-                                “Brenda enables us to differentiate 
+                                “SkillSync enables us to differentiate 
                                 ourselves from our competitors and 
                                 produce content at a higher caliber.”
                             </span>

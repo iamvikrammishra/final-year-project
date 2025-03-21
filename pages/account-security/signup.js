@@ -53,7 +53,7 @@ const SignUp = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Create an Account - Brenda"/>
+            <HeadTag title="Create an Account - SkillSync"/>
 
             {/* ================== Header =================== */}
             <LoginSignupHeader/>
@@ -193,7 +193,7 @@ const SignUp = () => {
                                     <option value="Azerbaijan">Azarbaijan</option>
                                     <option value="Bahamas">Bahamas</option>
                                     <option value="Bangladesh">Bangladesh</option>
-                                    <option value="Barbados">Barbados</option>
+                                    <option value="Barbados">India</option>
                                 </select>
 
                                 {/* ================= send me checkbox =============== */}
@@ -208,7 +208,7 @@ const SignUp = () => {
                                 <div className="flex space-x-3 my-4">
                                     <input id="yes" type="checkbox" value="" className="w-4 h-4 text-blue-600 bg-transparent rounded border-gray-300 focus:ring-blue-500 focus:ring-2 cursor-pointer mt-[2px]"/>
                                     <label htmlFor="yes" className="text-zinc-800 cursor-pointer text-sm">
-                                        Yes, I understand and agree to the Brenda Terms of Service , including the User Agreement and Privacy Policy
+                                        Yes, I understand and agree to the SkillSync Terms of Service , including the User Agreement and Privacy Policy
                                     </label>
                                 </div>
 
@@ -310,7 +310,7 @@ const SignUp = () => {
                                     <option value="Azerbaijan">Azarbaijan</option>
                                     <option value="Bahamas">Bahamas</option>
                                     <option value="Bangladesh">Bangladesh</option>
-                                    <option value="Barbados">Barbados</option>
+                                    <option value="Barbados">India</option>
                                 </select>
 
                                 {/* ================= send me checkbox =============== */}
@@ -325,7 +325,7 @@ const SignUp = () => {
                                 <div className="flex space-x-3 my-4">
                                     <input id="yes" type="checkbox" value="" className="w-4 h-4 text-blue-600 bg-transparent rounded border-gray-300 focus:ring-blue-500 focus:ring-2 cursor-pointer mt-[2px]"/>
                                     <label htmlFor="yes" className="text-zinc-800 cursor-pointer text-sm">
-                                        Yes, I understand and agree to the Brenda Terms of Service , including the User Agreement and Privacy Policy
+                                        Yes, I understand and agree to the SkillSync Terms of Service , including the User Agreement and Privacy Policy
                                     </label>
                                 </div>
 

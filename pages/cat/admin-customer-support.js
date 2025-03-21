@@ -193,7 +193,7 @@ const AdminCustomSupport = () => {
   return (
     <div className="min-h-screen flex flex-col">
         {/* ============== Head Tag =============== */}
-        <HeadTag title="Top Admin & Customer support Talent Experts for Hire in July 2022 | Brenda"/>
+        <HeadTag title="Top Admin & Customer support Talent Experts for Hire in January 2025 | SkillSync"/>
 
         {/* ================= Header ================= */}
         <header className="header-bg">
@@ -224,7 +224,7 @@ const AdminCustomSupport = () => {
                 contracts="60K+ contracts"
                 contractsText="Involving admin and customer support work in the past year."
                 skills="332 skills"
-                skillsText="Represented by talent on Brenda"
+                skillsText="Represented by talent on SkillSync."
                 cardData={CardData}
             />
 
@@ -258,7 +258,7 @@ const AdminCustomSupport = () => {
                 
                 secondImage="/images/manager-vison.png"
                 secondHead="How independent talent helped Tophatter increase its CSAT score by 30%"
-                secondDes="Tophatter, an online auction site for shoppers worldwide, was preparing to expand and needed dozens more multilingual customer support specialists. They struggled finding enough qualified talent and finding talent within budget. By leveraging independent professionals on Brenda, they were able to quickly find the customer support specialists they needed, and within budget.”"
+                secondDes="Tophatter, an online auction site for shoppers worldwide, was preparing to expand and needed dozens more multilingual customer support specialists. They struggled finding enough qualified talent and finding talent within budget. By leveraging independent professionals on SkillSync, they were able to quickly find the customer support specialists they needed, and within budget.”"
                 secondRightText="312% increase in support capacity"
                 secondLeftBtn={{text: "Read Case Study", link: "#"}}
             />
@@ -269,12 +269,12 @@ const AdminCustomSupport = () => {
                 firstDesText="Administration is the process of managing and overseeing the day-to-day operations of a business. Customer support is the process of assisting customers in order to help them resolve issues or problems with a product or service."
 
                 secondHeadText="What is the first step to hiring admin and customer support talent and determining the project cost?"
-                secondDesText="One of the first steps in hiring any talent is to determine which skills you need for your project. You know you need help with admin and customer support, but what specific things are you trying to do? Brenda matches you with proven remote talent who can help you with all your admin and customer support needs, including"
+                secondDesText="One of the first steps in hiring any talent is to determine which skills you need for your project. You know you need help with admin and customer support, but what specific things are you trying to do? SkillSync matches you with proven remote talent who can help you with all your admin and customer support needs, including"
 
-                thirdHeadText="What are the various ways I can connect with admin and customer support talent through Brenda?"
+                thirdHeadText="What are the various ways I can connect with admin and customer support talent through SkillSync?"
                 thirdDesText="When it comes to admin and customer support, you may need a multidisciplinary team to handle the various components of your project. Examples of professionals you might need for admin and customer support projects include"
 
-                fourHeadText="Why should I use Brenda to find talent for finance and accounting services?"
+                fourHeadText="Why should I use SkillSync to find talent for finance and accounting services?"
                 fourDesText="When it comes to finance and accounting, you may need a multidisciplinary team of talent to handle the various components of your project. Examples of professionals you might need for finance and accounting projects include"
 
                 lastLeftText="Still have questions?"

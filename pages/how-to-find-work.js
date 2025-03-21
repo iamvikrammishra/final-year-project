@@ -18,7 +18,7 @@ const HowToFindWork = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="How Does Upwork Work for Freelancers | Brenda"/>
+            <HeadTag title="How Does SkillSync Work for Freelancers | SkillSync"/>
 
             {/* ================== Header =================== */}
             <header className="header-bg">

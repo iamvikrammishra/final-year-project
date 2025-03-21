@@ -18,7 +18,7 @@ const HowToHire = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="How Does Brenda Work for Client"/>
+            <HeadTag title="How Does SkillSync Work for Client"/>
 
             {/* ================= Header ================= */}
             <header className="header-bg">

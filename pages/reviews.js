@@ -1161,7 +1161,7 @@ const Reviews = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Review on Brenda"/>
+            <HeadTag title="Review on SkillSync"/>
 
             {/* ============= Header ================ */}
             <header className="header-bg">
@@ -1177,7 +1177,7 @@ const Reviews = () => {
                                 animate={{y:0, opacity:1}}
                                 transition={{duration:1}}
                             >
-                                Reviews on Brenda
+                                Reviews on SkillSync
                             </motion.h2>
                             <motion.p className="xl:text-xl text-lg text-zinc-700 lg:mt-5 mt-2"
                                 initial={{y:"100%", opacity:0}}
@@ -1194,7 +1194,7 @@ const Reviews = () => {
                                     animate={{x:0, opacity:1}}
                                     transition={{duration:1}}
                                 >
-                                    Join Brenda
+                                    Join SkillSync
                                 </motion.button>
                             </div>
                         </div>
@@ -2148,7 +2148,7 @@ const Reviews = () => {
                                         className="border border-gray-100 text-white px-4 lg:py-2 py-1 rounded-full font-semibold transition hover:text-gray-100 hover:border-gray-300"
                                         onClick={() => router.push("#")}
                                     >
-                                        Join Brenda
+                                        Join SkillSync
                                     </button>
                                </div>
                             </div>

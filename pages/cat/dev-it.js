@@ -195,7 +195,7 @@ const DevIt = () => {
   return (
     <div className="min-h-screen flex flex-col">
         {/* ============== Head Tag =============== */}
-        <HeadTag title="Top Development & IT Experts for Hire in July 2022 | Brenda"/>
+        <HeadTag title="Top Development & IT Experts for Hire in february 2025 | SkillSync"/>
 
         {/* ================= Header ================= */}
         <header className="header-bg">
@@ -226,7 +226,7 @@ const DevIt = () => {
                 contracts="211K+ contracts"
                 contractsText="Involving development and IT work in the past year."
                 skills="1,665 skills"
-                skillsText="Represented by talent on Brenda."
+                skillsText="Represented by talent on SkillSync."
                 cardData={CardData}
             />
 
@@ -273,11 +273,11 @@ const DevIt = () => {
                 secondHeadText="What is the first step to hiring development and IT talent and determining the project cost?"
                 secondDesText="Development refers to the creation and management of business technology, including computer applications, financial systems, and logistical solutions that help an organization run its operational processes. Information technology (IT) is the use of computers and computer networks to store, retrieve, transmit, and maintain data and information."
 
-                thirdHeadText="What are the various ways I can connect with development and IT talent through Brenda?"
-                thirdDesText="Brenda gives you the flexibility you need to find the right talent for your development and IT projects. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi labore reiciendis a doloribus! Iusto alias quod itaque officiis, maxime, explicabo inventore voluptas quis odit aut impedit, eius earum eligendi nisi sed sunt aperiam repellat! Unde!"
+                thirdHeadText="What are the various ways I can connect with development and IT talent through SkillSync?"
+                thirdDesText="SkillSync gives you the flexibility you need to find the right talent for your development and IT projects. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi labore reiciendis a doloribus! Iusto alias quod itaque officiis, maxime, explicabo inventore voluptas quis odit aut impedit, eius earum eligendi nisi sed sunt aperiam repellat! Unde!"
 
-                fourHeadText="Why should I use Brenda to find talent for development and IT services?"
-                fourDesText="Brenda gives you the flexibility you need to find the right talent for your development and IT projects."
+                fourHeadText="Why should I use SkillSync to find talent for development and IT services?"
+                fourDesText="SkillSync gives you the flexibility you need to find the right talent for your development and IT projects."
 
                 lastLeftText="Still have questions?"
                 lastRightBtn={{text: "Visit our help center", link: "#"}}

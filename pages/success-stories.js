@@ -159,7 +159,7 @@ const SuccessStories = () => {
     return (
         <div className="min-h-screen flex flex-col">
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Success Stories | Brenda"/>
+            <HeadTag title="Success Stories | SkillSync"/>
             
             {/* ================= Header ================= */}
             <header className="header-bg">
@@ -191,7 +191,7 @@ const SuccessStories = () => {
                             Success Stories
                         </h2>
                         <p className="font-semibold lg:text-xl text-lg text-zinc-600">
-                            See how Brenda helps businesses like yours grow and succeed.
+                            See how SkillSync helps businesses like yours grow and succeed.
                         </p>
                     </motion.div>
                 </div>

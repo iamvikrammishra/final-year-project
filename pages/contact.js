@@ -11,7 +11,7 @@ const Contact = () => {
         <div className="min-h-screen flex flex-col">
 
             {/* ============== Head Tag =============== */}
-            <HeadTag title="Contact Us | Brenda"/>
+            <HeadTag title="Contact Us | SkillSync"/>
 
               {/* ================= Header ================= */}
             <header className="header-bg">
@@ -86,7 +86,7 @@ const Contact = () => {
 
                                                 <Link href="#">
                                                     <a className="text-blue-800 font-semibold underline flex items-center transition hover:text-blue-900">
-                                                        press@brenda.com
+                                                        press@skillsync.com
                                                         <FiArrowRight className="mt-1 ml-1"/>
                                                     </a>
                                                 </Link>
@@ -119,19 +119,19 @@ const Contact = () => {
                                             </h4>
                                             <div className="mt-2">
                                                 <p className="text-zinc-500 font-semibold text-[17px]">
-                                                    475 Brannan St.
+                                                    123 sector-50.
                                                 </p>
                                                 <p className="text-zinc-500 font-semibold text-[17px]">
-                                                    Suite 430
+                                                    D-Block
                                                 </p>
                                                 <p className="text-zinc-500 font-semibold text-[17px]">
-                                                    San Francisco
+                                                    Noida, up
                                                 </p>
                                                 <p className="text-zinc-500 font-semibold text-[17px]">
-                                                    CA 94107
+                                                    CA 201301
                                                 </p>
                                                 <p className="text-zinc-500 font-semibold text-[17px]">
-                                                    Phone: (650) 316-7500
+                                                    Phone: 8227937263
                                                 </p>
                                             </div>
                                         </div>

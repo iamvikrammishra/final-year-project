@@ -193,7 +193,7 @@ const SalesMarketing = () => {
   return (
     <div className="min-h-screen flex flex-col">
         {/* ============== Head Tag =============== */}
-        <HeadTag title="Top Sales & Marketing Experts for Hire in July 2022 | Brenda"/>
+        <HeadTag title="Top Sales & Marketing Experts for Hire in february| SkillSync"/>
 
         {/* ================= Header ================= */}
         <header className="header-bg">
@@ -224,7 +224,7 @@ const SalesMarketing = () => {
                 contracts="65K+ contracts"
                 contractsText="Involving sales and marketing work in the past year."
                 skills="358 skills"
-                skillsText="Represented by talent on Brenda"
+                skillsText="Represented by talent on SkillSync."
                 cardData={CardData}
             />
 
@@ -244,7 +244,7 @@ const SalesMarketing = () => {
 
             {/* ========================== Flexible Section =========================== */}
             <Flexible
-                firstHead="How Brenda works for clients"
+                firstHead="How SkillSync works for clients"
                 firstSubHead="A graphic design pro creates a logo, branding, and style guide"
                 first_F_LeftRating="5/5"
                 first_F_RightText="Budget:"
